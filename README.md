@@ -5,7 +5,7 @@
   
 ## Discover:
 
-+ [Load data](https://github.com/yayuchen/salary-project/blob/main/salary_prediction.ipynb/#load-the-data): 
++ [Load data](#load-the-data): 
   - import module and load essential dataset
 + Clean data: 
   - determine missing or duplicated values 
