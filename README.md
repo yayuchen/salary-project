@@ -5,7 +5,7 @@
   
 ## Discover:
 
-+ Load data: 
++ [Load data](http://localhost:8888/notebooks/Desktop/git%20hub/salary-project/salary_prediction.ipynb): 
   - import module and load essential dataset
 + Clean data: 
   - determine missing or duplicated values 
