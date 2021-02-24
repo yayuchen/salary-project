@@ -18,7 +18,7 @@
   - plot heatmap with mean values to measure features correlaion with salary
     
 ## Develop:
-+ [Feature engineering](https://github.com/yayuchen/salary-project/blob/main/salary_prediction.ipynb/#engineer-features):
++ Feature engineering:
   - label encoding categorical features 
   - grouping categorical features and calculate groups statistics( target central tendency and target percentiles ) 
   - merge new data as new features
