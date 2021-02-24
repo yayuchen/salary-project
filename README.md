@@ -5,7 +5,7 @@
   
 ## Discover:
 
-+ [Load data](#load-the-data): 
++ Load data: 
   - import module and load essential dataset
 + Clean data: 
   - determine missing or duplicated values 
