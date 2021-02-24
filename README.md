@@ -6,7 +6,7 @@
 ## Discover:
 
 + Load data: 
-  - import module and load essential [dataset](#feature-engineering)
+  - import module and load essential dataset
 + Clean data: 
   - determine missing or duplicated values 
   - examine statistical details 
