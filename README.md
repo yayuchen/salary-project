@@ -59,7 +59,9 @@
 > **Job types:**
 
 >> The strongest correlation is job type, the job type which salary mean below 100 is **25%** of all individuals, only a job role as **junior** or **janitor**.
+>> 
 >> Compare the highest and lowest salary avg in job type. (**70 vs 145**)
+>> 
 >> The top 3 high salary industry is **oil, financa and web**, the average salary is over 120, even the job role as a junior in these 3 industry, the lowest income still higher than other industries at same level.
 >
 > **Degrees:**
