@@ -58,7 +58,7 @@
 
 > **Job types:**
 
->> The strongest correlation is job type, the job type which salary mean below 100 is **25%** of all individuals, only a job role as **junior** or **janitor**.
+>> The strongest correlation is job type, the job type which salary mean below 100 is **25%** of all individuals, only a job role as **JUNIOR** or **JANITOR**.
 >> 
 >> Compare the highest and lowest salary avg in job type. (**70 vs 145**)
 >> 
@@ -91,5 +91,5 @@
 
 # Business benifit:
 
-> For HR departmant, if there is a budget limitation for hiring, **years of experience** could be a good measurement for recruiting
+> For HR departmant, if there is a budget limitation for hiring, **EXPERIENCES** could be a good measurement for recruiting
 
