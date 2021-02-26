@@ -36,8 +36,8 @@
 
 ## Purpose:
 
-> Utilizing collection of job description for individual roles to analysis how factors impact on salary.
-> Determining any differences between different industries.
+> Utilizing collection of job description for individual roles to analysis how factors impact on salary.                                  
+> Determining any differences between different industries.                                                                                
 > Understanding how different of salary between years of experience and workplace distance away from metropolis.
 > 
 ## Covering:
