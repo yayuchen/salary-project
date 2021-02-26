@@ -82,7 +82,7 @@
 > **New features: Grouping categorical features**
 
 >> New feature **group mean** become the most important feature for train dataset.
->>>Job types **BELOW** group mean: **60%**(other roles) vs **40%**(Junior & Janitor).
+>>>Job types **BELOW** group mean: **60%**(other roles) vs **40%**(Junior & Janitor).                                                     
 >>>Job types **ABOVE** group mean: **93%**(other roles) vs **7%**(Junior & Janitor).
 
->> Compare origin features, only **years of experience** and **milesFromMetropolis** have higher importance scores.
+>> Comparing origin features, only **years of experience** and **milesFromMetropolis** have higher importance scores.
