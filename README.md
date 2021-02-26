@@ -87,3 +87,9 @@
 >>>Job types **ABOVE** group mean: **93%**(other roles) vs **7%**(Junior & Janitor).
 
 >> Comparing origin features, only **years of experience** and **milesFromMetropolis** have higher importance scores.
+>> 
+
+# Business benifit:
+
+> For HR departmant, if there is a budget limitation for hiring, **years of experience** could be a good measurement for recruiting
+
