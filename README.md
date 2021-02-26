@@ -48,7 +48,6 @@
 > Model develop
 > 
 
-## Conclusion:
 
 # What to optimize?
 
