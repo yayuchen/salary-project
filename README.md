@@ -1,6 +1,41 @@
+# Understanding individuals salary distribution based on job description
+## Salary prediction
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+## Table of contents
+
+### Problem
+
+### [Data determine](https://github.com/yayuchen/salary-project/blob/main/examine/data%20statistical%20examine.ipynb)
+* Examine statistical information
+* Target determine
+* Clean data
+
+### [Data exploration](https://github.com/yayuchen/salary-project/blob/main/explore/data%20exploration.ipynb)
+* Feature exploration with target
+* Feature correlation with heatmap plot
+
+### Data develop
+* Pre-processing categorical features with **Label encoding**
+* **Grouping** categorical features
+* Create new statistical features by grouped data
+* Model tuning: use **RandomizedSearchCV** and **GridSearchCV**
+* Model evaluation: Using **cross validation** evaluate models performance by **MSE**
+
+### Conclusion
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+### The problem:
+> 
+
+
+
+
+
 # salary prediction project
 
-## Define
+## Data statistics examine:
 **Looking for the most importance factor could impact on salary trend.**
   
 ## Discover:
