@@ -11,9 +11,9 @@
 ### [Problem](#purpose)
 
 ### [Data examine](https://github.com/yayuchen/salary-project/blob/main/examine/data%20statistical%20examine.ipynb)
-* Examine statistical information
-* Target determine
-* Clean data
+* [Examine statistical information](https://github.com/yayuchen/salary-project/blob/main/examine/data%20statistical%20examine.ipynb#1)
+* [Target determine](https://github.com/yayuchen/salary-project/blob/main/examine/data%20statistical%20examine.ipynb#2)
+* [Clean data](https://github.com/yayuchen/salary-project/blob/main/examine/data%20statistical%20examine.ipynb#3)
 
 ### [Data explore](https://github.com/yayuchen/salary-project/blob/main/explore/data%20exploration.ipynb)
 * Feature exploration with target
