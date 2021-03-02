@@ -15,11 +15,11 @@
 * Target determine
 * Clean data
 
-### [Data explore](https://github.com/yayuchen/salary-project/blob/main/explore/data%20exploration.ipynb)
+### [Data explore](https://nbviewer.jupyter.org/github/yayuchen/salary-project/blob/main/explore/data%20exploration.ipynb)
 * Feature exploration with target
 * Feature correlation with heatmap plot
 
-### [Data develop](https://github.com/yayuchen/salary-project/blob/main/develop/data%20develop.ipynb)
+### [Data develop](https://nbviewer.jupyter.org/github/yayuchen/salary-project/blob/main/develop/data%20develop.ipynb)
 * Pre-processing categorical features with **Label encoding**
 * **Grouping** categorical features
 * Create new statistical features by grouped data
