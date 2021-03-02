@@ -10,7 +10,7 @@
 
 ### [Problem](#purpose)
 
-### [Data examine](#file:///C:/Users/EllenChen/Desktop/git%20hub/salary-project/examine/data%20statistical%20examine.html)
+### [Data examine](https:///C:/Users/EllenChen/Desktop/git%20hub/salary-project/examine/data%20statistical%20examine.html)
 * Examine statistical information
 * Target determine
 * Clean data
