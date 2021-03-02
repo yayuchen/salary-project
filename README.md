@@ -10,12 +10,12 @@
 
 ### [Problem](#purpose)
 
-### [Data determine](https://github.com/yayuchen/salary-project/blob/main/examine/data%20statistical%20examine.ipynb)
+### [Data examine](https://github.com/yayuchen/salary-project/blob/main/examine/data%20statistical%20examine.ipynb)
 * Examine statistical information
 * Target determine
 * Clean data
 
-### [Data exploration](https://github.com/yayuchen/salary-project/blob/main/explore/data%20exploration.ipynb)
+### [Data explore](https://github.com/yayuchen/salary-project/blob/main/explore/data%20exploration.ipynb)
 * Feature exploration with target
 * Feature correlation with heatmap plot
 
