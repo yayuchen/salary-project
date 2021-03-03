@@ -47,12 +47,12 @@
 
 ### Purpose:
 
-> Utilizing collection of job description for individual roles to analyse how factors impact on individual salary.                                  
-> Determining any differences between different industries, majors or degrees.      
+> * Utilizing collection of job description for individual roles to analyse how factors impact on individual salary.                                  
+> * Determining any differences between different industries, majors or degrees.      
 
-> Considering business conditions, like location, size of business, number of employees and use this project as reference.
+> * Considering business conditions, like location, size of business, number of employees and use this project as reference.
 
-> Understanding the correlation of salary with years of experience and workplace distance away from metropolis, then base on this project, it can provide a good reference for HR to compose a fair hiring description.
+> * Understanding the correlation of salary with years of experience and workplace distance away from metropolis, then base on this project, it can provide a good reference for HR to compose a fair hiring description.
 > 
 
 ### Conclusions
