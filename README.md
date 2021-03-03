@@ -94,5 +94,5 @@
 
 # Business benefit:
 
-> From dataset's statistical information, we know that if any individual has more relative experience, the average salary is 1.3 times higher. But, **Experience** isn't equal **Ability**. If someone's capable to perform well than more experiences person, business can save more budget from hiring right person who doesn't have much experiences. Besides, management can utilize the spare 30% of budget as award or bonus.
+> From dataset's statistical information, we know that if any individual has more relative experience, the average salary is 1.3 times higher. But, **Experience** isn't equal **Ability**. If someone's capable to perform well than more experiences person, business can save more budget from hiring right person who doesn't have much experiences. Besides, management can utilize the spare 30% of budget as award or bonus and don't need to shorten or extend other budget plans.
 > 
