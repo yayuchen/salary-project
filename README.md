@@ -8,7 +8,8 @@
 
 ## Table of contents
 
-### [Problem](#purpose)
+### [Problem](#problem
+)
 * **WHY** this problem?
 *  Purpose
 
@@ -29,6 +30,7 @@
 * Model evaluation: Using **cross validation** evaluate models performance by **MSE**
 
 ### [Conclusion](#conclusions)
+* Summary
 * Business benefit
 
 
@@ -54,7 +56,9 @@
 > Understanding the correlation of salary with years of experience and workplace distance away from metropolis, then base on this project, it can provide a good reference for HR to compose a fair hiring description.
 > 
 
-### Conclusions:
+### Conclusions
+
+#### Summary: 
 
 > **Job types:**
 
@@ -91,6 +95,5 @@
 
 # Business benefit:
 
-> From dataset's statistical information, we know that if any individual has relative experience, the average salary is 1.3 times higher. But, **Experience** isn't equal **Ability**. If someone's capable to perform well than more experiences person, there have 2 advantages for business. First, saving more budget from hiring right person; second, if have enough budget, utilizing the extra 30% salary as commission or bonus for the well perform employee not only 
-> For HR departmant, if there is a budget limitation for hiring, **EXPERIENCES** could be a good measurement for recruiting
-
+> From dataset's statistical information, we know that if any individual has more relative experience, the average salary is 1.3 times higher. But, **Experience** isn't equal **Ability**. If someone's capable to perform well than more experiences person, business can save more budget from hiring right person who doesn't have much experiences. Besides, management can utilize the spare 30% of budget as award or bonus.
+> 
