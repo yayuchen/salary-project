@@ -8,8 +8,7 @@
 
 ## Table of contents
 
-### [Problem](#problem
-)
+### [Problem](#problem)
 * **WHY** this problem?
 *  Purpose
 
