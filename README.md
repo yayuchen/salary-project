@@ -61,11 +61,11 @@
 
 > **Job types:**
 
->> The strongest correlation is job type, the job type which salary mean below 100 is **25%** of all individuals, only a job role as **JUNIOR** or **JANITOR**.
+>> * The strongest correlation is job type, the job type which salary mean below 100 is **25%** of all individuals, only a job role as **JUNIOR** or **JANITOR**.
 >> 
->> Compare the highest and lowest salary avg in job type. (**70 vs 145**)
+>> * Compare the highest and lowest salary avg in job type. (**70 vs 145**)
 >> 
->> The top 3 high salary industry is **oil, financa and web**, the average salary is over 120, even the job role as a junior in these 3 industry, the lowest income still higher than other industries at same level.
+>> * The top 3 high salary industry is **oil, financa and web**, the average salary is over 120, even the job role as a junior in these 3 industry, the lowest income still higher than other industries at same level.
 >
 > **Degrees:**
 
@@ -86,8 +86,8 @@
 > **New features: Grouping categorical features**
 
 >> New feature **group mean** become the most important feature for train dataset.
->>>Job types **BELOW** group mean: **60%**(other roles) vs **40%**(Junior & Janitor).                                                     
->>>Job types **ABOVE** group mean: **93%**(other roles) vs **7%**(Junior & Janitor).
+>>>* Job types **BELOW** group mean: **60%**(other roles) vs **40%**(Junior & Janitor).                                                     
+>>>* Job types **ABOVE** group mean: **93%**(other roles) vs **7%**(Junior & Janitor).
 
 >> Comparing origin features, only **years of experience** and **milesFromMetropolis** have higher importance scores.
 >> 
