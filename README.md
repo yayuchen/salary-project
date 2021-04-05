@@ -21,7 +21,7 @@
 * Feature exploration with target
 * Feature correlation with heatmap plot
 
-### [Data develop](https://nbviewer.jupyter.org/github/yayuchen/salary-project/blob/main/develop/data%20develop.ipynb)
+### [Data develop](https://nbviewer.jupyter.org/github/yayuchen/salary-project/blob/main/notebooks/develop/data%20develop.ipynb)
 * Pre-processing categorical features with **Label encoding**
 * **Grouping** categorical features
 * Create new statistical features by grouped data
