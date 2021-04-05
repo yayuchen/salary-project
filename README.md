@@ -29,6 +29,7 @@
 * Model evaluation: Using **cross validation** evaluate models performance by **MSE**
 
 ### [Conclusion](#conclusions)
+* [**Salary prediction OOP notebook**]()
 * Summary
 * Business benefit
 
