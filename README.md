@@ -29,7 +29,7 @@
 * Model evaluation: Using **cross validation** evaluate models performance by **MSE**
 
 ### [Conclusion](#conclusions)
-* [**Salary prediction OOP notebook**]()
+* [**Salary prediction OOP**](https://nbviewer.jupyter.org/github/yayuchen/salary-project/blob/main/notebooks/SalaryPrediction_OOP.ipynb)
 * Summary
 * Business benefit
 
