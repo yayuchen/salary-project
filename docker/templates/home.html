@@ -1,0 +1,54 @@
+<html> 
+<head>
+ <style>
+   body {
+        background-color: rgb(102, 180, 135);text-align-last: center;
+}
+h1 {
+        color: rgb(218, 214, 203); font-family: 'Times New Roman', Times, serif; font-size: 200%;
+}
+label {
+        background-color: rgb(145, 166, 236); font-size: 120%; margin-inline: 100px;
+}
+input {
+        margin-bottom: 5px;
+}
+p {
+        color: rgb(119, 8, 30); font-size: 85%;
+}
+ </style>
+</head>
+<body> 
+    <h1>Career Salary Prediction Estimater</h1> 
+  
+<div> 
+  <form action="/result" method="post"> 
+    <label for='Job Type(0-7)'>Job Type(0-7)</label> 
+    <input type="number" id='Job Type(0-7)' name="Job Type"> 
+    <p>0:CEO; 1:CFO; 2:CTO; 3:JANITOR; 4:JUNIOR; 5:MANAGER; 6:SENIOR; 7:VICE_PRESIDENT</p>
+    <hr>
+    <label for='Degree(0-4)'>Degree(0-4)</label> 
+    <input type="number" id='Degree(0-4)' name="Degree"> 
+    <p>0:BACHELORS; 1:DOCTORAL; 2:HIGH_SCHOOL; 3:MASTERS; 4:NONE</p>
+    <hr>      
+    <label for='Major(0-8)'>Major(0-8)</label> 
+    <input type="number" id='Major(0-8)' name="Major"> 
+    <p>0:BIOLOGY; 1:BUSINESS; 2:CHEISTRY; 3:COMPSCI; 4:ENGINEERING; 5:LITERATURE; 6:MATH; 7:NONE; 8:PHYSICS</p>
+    <hr>
+    <label for="Industry(0-6)">Industry(0-6)</label> 
+    <input type="number" id="Industry(0-6)" name="Industry"> 
+    <p>0:AUTO; 1:EDUCATION; 2:FINANCE; 3:HEALTH; 4:OIL; 5:SERVICE; 6:WEB</p>
+    <hr>
+    <label for="Years Experience">Years Experience</label> 
+    <input type="number" id="Years Experience" name="Years Experience"> 
+    <br>
+    <label for="Miles From Metropolis">Miles From Metropolis</label> 
+    <input type="number" id="Miles From Metropolis" name="Miles From Metropolis"> 
+    <hr>
+    <input type="submit" value="Submit"> 
+  </form> 
+	<br>
+	<h1 >{{prediction}}</h1>
+</div> 
+</body> 
+</html>

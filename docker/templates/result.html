@@ -1,0 +1,12 @@
+<html> 
+<body> 
+    <h1>Career Salary Prediction Estimater</h1> 
+<div> 
+    <h2>Detail Match data</h2>
+    {% for table in tables %}
+    {{titles[loop.index]}}
+    {{ table|safe }}
+  {% endfor %}
+</div> 
+</body> 
+</html>
