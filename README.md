@@ -17,7 +17,7 @@
 * Target determine
 * Clean data
 
-### [Data explore](https://nbviewer.jupyter.org/github/yayuchen/salary-project/blob/main/explore/data%20exploration.ipynb)
+### [Data explore](https://nbviewer.jupyter.org/github/yayuchen/salary-project/blob/main/notebooks/explore/data%20exploration.ipynb)
 * Feature exploration with target
 * Feature correlation with heatmap plot
 
