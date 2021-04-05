@@ -12,7 +12,7 @@
 * **WHY** this problem?
 *  Purpose
 
-### [Data examine](https://nbviewer.jupyter.org/github/yayuchen/salary-project/blob/main/examine/data%20statistical%20examine.ipynb)
+### [Data examine](https://nbviewer.jupyter.org/github/yayuchen/salary-project/blob/main/notebooks/examine/data%20statistical%20examine.ipynb)
 * Examine statistical information
 * Target determine
 * Clean data
