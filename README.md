@@ -29,8 +29,8 @@
 * Model evaluation: Using **cross validation** evaluate models performance by **MSE**
 
 ### Data deploy
-* Using [**flask**](https://github.com/yayuchen/salary-project/blob/main/docker/app.py) for app backend to web
-* Using dockerfile to create image and deploy to cloud 
+* Using [**Flask**](https://github.com/yayuchen/salary-project/blob/main/docker/app.py) for app backend to web
+* Using [**Dockerfile**](https://github.com/yayuchen/salary-project/blob/main/docker/dockerfile) to create image and deploy to cloud 
 
 ### [Conclusion](#conclusions)
 * [**Salary prediction OOP**](https://nbviewer.jupyter.org/github/yayuchen/salary-project/blob/main/notebooks/SalaryPrediction_OOP.ipynb)
