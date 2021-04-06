@@ -7,7 +7,7 @@
 
 
 ## Table of contents
-![test image](https://github.com/yayuchen/salary-project/blob/main/error1.png)
+
 
 ### [Problem](#why-this-problem)
 * **WHY** this problem?
