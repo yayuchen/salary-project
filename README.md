@@ -30,7 +30,7 @@
 * Model evaluation: Using **cross validation** evaluate models performance by **MSE**
 
 ### Data deploy
-* Using the best performed model and [**Flask**](https://github.com/yayuchen/salary-project/blob/main/docker/app.py) for app backend to web app, taking 6 inputs(**digit numbers**) from web app and output prediction salary below. 
+* Using the best performed model and [**Flask**](https://github.com/yayuchen/salary-project/blob/main/docker/app.py) for app backend to web app, taking 6 inputs(**digit numbers**) from web app and output salary prediction below. 
 ![**App demo**](https://github.com/yayuchen/salary-project/blob/main/images/app.png?raw=True)
 
 * Using [**Dockerfile**](https://github.com/yayuchen/salary-project/blob/main/docker/dockerfile) to create image and deploy to cloud 
