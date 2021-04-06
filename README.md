@@ -93,7 +93,7 @@
 > **Miles from metropolis:**
 
 >> Average distance is **49.5** miles, the average is **1.2 times Less** if workplace distance over average miles.
-![Experience and Miles from metro](https://github.com/yayuchen/salary-project/blob/main/images/ys%20and%20miles.pngraw=True)
+![Experience and Miles from metro](https://github.com/yayuchen/salary-project/blob/main/images/ys%20and%20miles.png?raw=True)
 
 > **New features: Grouping categorical features**
 
