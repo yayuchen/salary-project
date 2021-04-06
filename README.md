@@ -30,7 +30,7 @@
 * Model evaluation: Using **cross validation** evaluate models performance by **MSE**
 
 ### Data deploy
-* Using the best performed model and [**Flask**](https://github.com/yayuchen/salary-project/blob/main/docker/app.py) for app backend to web app
+* Using the best performed model and [**Flask**](https://github.com/yayuchen/salary-project/blob/main/docker/app.py) for app backend to web app, taking 6 inputs(**digit numbers**) from web app and output prediction salary below. ![**App demo**]()
 * Using [**Dockerfile**](https://github.com/yayuchen/salary-project/blob/main/docker/dockerfile) to create image and deploy to cloud 
 
 ### [Conclusion](#conclusions)
@@ -68,6 +68,7 @@
 > **Job types:**
 
 >> * The strongest correlation is job type, the job type which salary mean below 100 is **25%** of all individuals, only a job role as **JUNIOR** or **JANITOR**.
+![Job Type]()
 >> 
 >> * Compare the highest and lowest salary avg in job type. (**70 vs 145**)
 >> 
@@ -76,10 +77,12 @@
 > **Degrees:**
 
 >> The average salary with the degree level above high school is **1.2 times Higher** than high school or none degree level.
+![Degree]()
 
 > **Major:**
 
 >> Any individual with major, the average salary is **1.3 times Higher** than without major.
+![Major]()
 
 > **Years of experience:**
 
@@ -88,6 +91,7 @@
 > **Miles from metropolis:**
 
 >> Average distance is **49.5** miles, the average is **1.2 times Less** if workplace distance over average miles.
+![Experience and Miles from metro]()
 
 > **New features: Grouping categorical features**
 
