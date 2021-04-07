@@ -69,21 +69,27 @@
 
 > **Job types:**
 
->> * The strongest correlation is job type, the job type which salary mean below 100 is **25%** of all individuals, only a job role as **JUNIOR** or **JANITOR**.
+>> * The strongest correlation is job type, the job type which salary mean below 100 is **25%** of all individuals, most of the job role as **JUNIOR** or **JANITOR**.
+>> * Compare the highest and lowest salary avg in job type. (**70 vs 145**)
+>> **Job types vs mean salary** plot:
 ![Job Type](https://github.com/yayuchen/salary-project/blob/main/images/jobType.png?raw=True)
 >> 
->> * Compare the highest and lowest salary avg in job type. (**70 vs 145**)
->> 
+> **Industry**
+> 
 >> * The top 3 high salary industry is **oil, financa and web**, the average salary is over 120, even the job role as a junior in these 3 industry, the lowest income still higher than other industries at same level.
+>> **Industry vs mean salary** plot:
+>> ![Industry](https://github.com/yayuchen/salary-project/blob/main/images/industry.png?raw=True)
 >
 > **Degrees:**
 
 >> The average salary with the degree level above high school is **1.2 times Higher** than high school or none degree level.
+>> **Degree vs mean salary** plot:
 ![Degree](https://github.com/yayuchen/salary-project/blob/main/images/degree.png?raw=True)
 
 > **Major:**
 
 >> Any individual with major, the average salary is **1.3 times Higher** than without major.
+>> **Major vs mean salary** plot:
 ![Major](https://github.com/yayuchen/salary-project/blob/main/images/major.png?raw=True)
 
 > **Years of experience:**
@@ -93,6 +99,7 @@
 > **Miles from metropolis:**
 
 >> Average distance is **49.5** miles, the average is **1.2 times Less** if workplace distance over average miles.
+>> **Years of Experience and Miles from metropolis with KMeans clustering** plot:
 ![Experience and Miles from metro](https://github.com/yayuchen/salary-project/blob/main/images/ys%20and%20miles.png?raw=True)
 
 > **New features: Grouping categorical features**
