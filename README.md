@@ -31,6 +31,7 @@
 
 ### Data deploy
 * Using the best performed model and [**Flask**](https://github.com/yayuchen/salary-project/blob/main/docker/app.py) for app backend to web app. 
+* To start the web app locally, run the following command in the app directory and then go to http://localhost:5000 to interact with the app **python app.py**
 * **Demo**: according to personal background and type into digital numbers as input, then compute by ML model and output prediction.
 ![**App demo**](https://github.com/yayuchen/salary-project/blob/main/images/app.png?raw=True)
 
